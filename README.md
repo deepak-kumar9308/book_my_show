@@ -39,6 +39,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed and a [MongoDB Atlas
    cd book_my_show
    ```
 
+
+
+   
+
 2. **Setup the Backend:**
    ```bash
    cd server
